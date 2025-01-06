@@ -1,8 +1,3 @@
-El archivo `README.md` del repositorio `Juego-de-Monedas-Pygame-` actualmente no contiene información adicional más allá del título del proyecto.
-
-Para añadir una explicación sobre lo que hace el proyecto, aquí tienes un ejemplo de cómo podrías estructurarlo:
-
-```markdown
 # Juego-de-Monedas-Pygame-
 
 ## Descripción
@@ -39,9 +34,3 @@ Este proyecto es un juego desarrollado con Pygame en el cual los jugadores deben
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request.
-
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
-```
-
-Puedes copiar y pegar este contenido en tu archivo `README.md` y ajustarlo según las características específicas de tu juego.
