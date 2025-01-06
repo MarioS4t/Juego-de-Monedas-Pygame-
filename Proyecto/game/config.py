@@ -1,0 +1,23 @@
+from jedi.debug import SPEED
+
+WIDTH = 800
+HEIGHT = 400
+TITLE = "Game"
+
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+GREEN = (69,184,61)
+BLUE = (78,137,193)
+RED = (184,61,88)
+YELLOW = (255,255,0)
+GREEN_LIGHT = (61,174,87)
+
+
+PLAYER_GRAV = 1.2
+SPEED = 5
+FPS = 60
+FONT = 'Arial'
+TEXT_POSY = 20
+
+MAX_COINS = 10
+MAX_WALLS = 10
